@@ -10,11 +10,11 @@ This is a single-player, text-based version of the boardgame Clue.
 ## Directions
 When you are prompted to enter a command, certain words will have brackets around one or more of the letters. Enter the letter(s) of the option you want to pick. For example, to [w]alk you would type "w" and hit enter. When guessing the killer, weapon, and room, you will have to type the whole name. You must enter it exactly as shown below (case sensitive) otherwise the program will say that your guess was not correct and it will not warn you that you made an invalid entry.
 
-Suspected killers: Miss Scarlet, Mrs Peacock, Mrs White, Prof Plum, Col Mustard, Mr Green
+*Suspected killers*: Miss Scarlet, Mrs Peacock, Mrs White, Prof Plum, Col Mustard, Mr Green
 
-Suspected weapons: Rope, Wrench, Candlestick, Lead Pipe, Knife
+*Suspected weapons*: Rope, Wrench, Candlestick, Lead Pipe, Knife
 
-Suspected rooms: Hall, Lounge, Dining Room, Kitchen, Ballroom, Conservatory, Billiard Room, Library, Study
+*Suspected rooms*: Hall, Lounge, Dining Room, Kitchen, Ballroom, Conservatory, Billiard Room, Library, Study
 
 When moving around the hallway, reference an image of the Clue board to know where the rooms are in relation to each other. You will have the option to move to the next room in the clockwise or counterclockwise direction.  
 
